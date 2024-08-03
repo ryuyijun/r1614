@@ -32,6 +32,13 @@ Welcome to the documentation for **R1614**.
 - **Dashdot**
 - **Excalidraw**
 
+#### One-command install
+```bash
+wget https://raw.githubusercontent.com/r1614/setup/main/full.sh
+chmod +x full.sh
+./full.sh
+```
+
 <!---
 r1614/r1614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

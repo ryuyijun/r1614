@@ -1,6 +1,6 @@
-# **R1614** Server Introduction
+# **R1614's** Server Introduction
 
-Welcome to the documentation for **R1614**. 
+Welcome to the documentation for **R1614's Server**. 
 
 ## Storage Server Specifications
 
@@ -17,18 +17,14 @@ Welcome to the documentation for **R1614**.
 
 ## Docker Containers
 
-- **Authelia**
 - **NginxProxyManager-Plus**
-- **Goaccess**
 - **Filebrowser**
 - **Dozzle**
-- **Gokapi**
 - **Dockge**
 - **Voltaserve**
 - **Watchtower**
 - **Homarr**
 - **Homepage**
-- **Stirling-PDF**
 - **Dashdot**
 - **Excalidraw**
 
@@ -40,6 +36,8 @@ chmod +x full.sh
 ```
 
 -------------------------------------------------------------------------------------------------------------------
+
+## Virtual Machine Server Specifications
 
 ### Hardware
 - **Processor**: N100 (4 cores, 4 threads)

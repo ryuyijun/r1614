@@ -54,7 +54,7 @@ chmod +x full.sh
 
 --------------------------------------------------------------------------------------------------------------------
 
-[![R1614's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1614)]
+![R1614's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1614)
 
 <!---
 r1614/r1614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -52,6 +52,10 @@ chmod +x full.sh
 - **Debian 12 CT** for develop test
 - **Windows 11**
 
+--------------------------------------------------------------------------------------------------------------------
+
+[![R1614's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1614)]
+
 <!---
 r1614/r1614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

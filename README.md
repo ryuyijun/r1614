@@ -2,7 +2,7 @@
 
 Welcome to the documentation for **R1614**. 
 
-## Server Specifications
+## Storage Server Specifications
 
 ### Hardware
 - **Processor**: N4000 (2 cores, 2 threads)
@@ -38,6 +38,21 @@ wget https://raw.githubusercontent.com/r1614/setup/main/full.sh
 chmod +x full.sh
 ./full.sh
 ```
+
+-------------------------------------------------------------------------------------------------------------------
+
+### Hardware
+- **Processor**: N100 (4 cores, 4 threads)
+- **Memory**: 16GB RAM
+- **Storage**:
+  - Klevv c730 1TB NVME
+
+### Operating System
+- **Proxmox VE 8.2**
+
+## Services
+- **Debian 12 CT** for develop test
+- **Windows 11**
 
 <!---
 r1614/r1614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

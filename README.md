@@ -27,6 +27,7 @@ Welcome to the documentation for **R1614's Server**.
 - **Homepage**
 - **Dashdot**
 - **Excalidraw**
+- **Authelia**
 
 #### One-command install
 ```bash

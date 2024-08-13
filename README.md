@@ -17,10 +17,9 @@ Welcome to the documentation for **R1614's Server**.
 
 ## Docker Containers
 
-- **NginxProxyManager-Plus**
+- **NginxProxyManager**
 - **Filebrowser**
 - **Dozzle**
-- **Dockge**
 - **Voltaserve**
 - **Watchtower**
 - **Homarr**
@@ -28,13 +27,6 @@ Welcome to the documentation for **R1614's Server**.
 - **Dashdot**
 - **Excalidraw**
 - **Authelia**
-
-#### One-command install
-```bash
-wget https://raw.githubusercontent.com/r1614/setup/main/full.sh
-chmod +x full.sh
-./full.sh
-```
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -54,6 +46,31 @@ chmod +x full.sh
 - **Windows 11**
 
 --------------------------------------------------------------------------------------------------------------------
+
+## Develop Server Specifications
+
+### Hardware
+- **Processor**: AMD GX217GA (2 cores, 2 threads)
+- **Memory**: 8GB RAM
+- **Storage**:
+  - HGST 500GB 
+  - 128GB M.2 SATA ssd (OS)
+
+### Operating System
+- **OpenMediaVault 7.0**
+
+## Docker Containers
+
+- **NginxProxyManager**
+- **Filebrowser**
+- **Dozzle**
+- **Voltaserve**
+- **Watchtower**
+- **Homarr**
+- **Homepage**
+- **Dashdot**
+- **Excalidraw**
+- **Authelia**
 
 ![R1614's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1614)
 

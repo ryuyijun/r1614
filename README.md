@@ -9,7 +9,8 @@ Welcome to the documentation for **R1614's Server**.
 - **Memory**: 6GB RAM
 - **Storage**:
   - Seagate 500GB HDD
-  - Western Digital 500GB HDD
+  - Western Digital 500GB HDD (Mirror)
+  - HGST 500GB HDD (Mirror)
   - 128GB EMMC (OS)
 
 ### Operating System
@@ -47,7 +48,7 @@ Welcome to the documentation for **R1614's Server**.
 
 --------------------------------------------------------------------------------------------------------------------
 
-## Develop Server Specifications
+## Develop Server Specifications (Died)
 
 ### Hardware
 - **Processor**: AMD GX217GA (2 cores, 2 threads)

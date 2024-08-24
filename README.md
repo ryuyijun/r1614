@@ -9,8 +9,8 @@ Welcome to the documentation for **R1614's Server**.
 - **Memory**: 6GB RAM
 - **Storage**:
   - Seagate 500GB HDD
-  - Western Digital 500GB HDD (Mirror)
-  - HGST 500GB HDD (Mirror)
+  - Western Digital 500GB HDD (Raid 1)
+  - HGST 500GB HDD (Raid 1)
   - 128GB EMMC (OS)
 
 ### Operating System
@@ -20,8 +20,8 @@ Welcome to the documentation for **R1614's Server**.
 
 - **NginxProxyManager**
 - **Filebrowser**
-- **Dozzle**
-- **Voltaserve**
+- **Dockge**
+- **Seafile**
 - **Watchtower**
 - **Homarr**
 - **Homepage**
@@ -42,40 +42,4 @@ Welcome to the documentation for **R1614's Server**.
 ### Operating System
 - **Proxmox VE 8.2**
 
-## Services
-- **Debian 12 CT** for develop test
-- **Windows 11**
-
---------------------------------------------------------------------------------------------------------------------
-
-## Develop Server Specifications (Died)
-
-### Hardware
-- **Processor**: AMD GX217GA (2 cores, 2 threads)
-- **Memory**: 8GB RAM
-- **Storage**:
-  - HGST 500GB 
-  - 128GB M.2 SATA ssd (OS)
-
-### Operating System
-- **OpenMediaVault 7.0**
-
-## Docker Containers
-
-- **NginxProxyManager**
-- **Filebrowser**
-- **Dozzle**
-- **Voltaserve**
-- **Watchtower**
-- **Homarr**
-- **Homepage**
-- **Dashdot**
-- **Excalidraw**
-- **Authelia**
-
 ![R1614's GitHub stats](https://github-readme-stats.vercel.app/api?username=r1614)
-
-<!---
-r1614/r1614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
